@@ -1,3 +1,0 @@
-Proyecto Final Diseño y Construcción de Dispositivos Electrónicos, placa de circuito impreso "Módulo de Química", para el que lo vea hay unas cuantas correcciones que debe de implementar si desea aplicarlos como lo son 
-el agregar 3V al sensor BME680 en las terminales de alimentación correspondiente tanto en el diseño esqumático como en el diseño 3D y recomiendo agregar un divisor de voltaje de 10kOhms y 6.8kOhms y en medio colocar la salida
-A_OUT_GAS para evitar problemas con la comunicación del ESP32, también modificar el diseño de lo que es el circuito del sensor de gas ya que hay formas más óptimas para implementarlo.
